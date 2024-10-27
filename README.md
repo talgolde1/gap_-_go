@@ -14,6 +14,7 @@ This project implements a **Gap & Go trading algorithm** leveraging the Interact
 - [Usage](#usage)
 - [Limitations](#limitations)
 - [License](#license)
+- [Disclaimer](#disclaimer)
 
 ## Overview
 
